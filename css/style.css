@@ -1,0 +1,41 @@
+*{
+    /*outline: 1px red solid;*/
+}
+
+.main{
+    width: 950px;
+    margin: 0 auto;
+
+}
+
+.header {
+    height: 50px;
+    display: flex;
+    align-self: center;
+    justify-content: center;
+}
+
+.form{
+    margin-top: 85px;
+    display: flex;
+    justify-content: center;
+}
+
+input{
+    width: 240px;
+    height: 35px;
+    font-size: 16pt;
+    margin-top: 15px;
+}
+
+.btn{
+    display: flex;
+    margin-top: 15px;
+    justify-content: center;
+}
+
+button{
+    text-align: center;
+    width: 200px;
+    height: 50px;
+}
